@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+  --foreground: #171717;
+  --maincolor: #00ff6a;
+}
+
+
+body {
+  background: #1f1f23;
+  font-family:Arial, Helvetica, sans-serif  
+}
