@@ -1,10 +1,12 @@
 import './globals.css'
 
 const NavButton = ({props}) => {
-    return(<div className="text-slate-400 font-bold mt-6 mx-6
-     hover:text-black   
-     hover:transition-all duration-500 ease-linear
-     hover: scale-">
+    return(<div className="text-slate-100 font-bold mt-6 mx-6
+     hover:text-white   
+     hover:transition-all  ease-linear
+     hover:p-2
+     hover:bg-[--maincolor]
+     hover:rounded-full">
         {props}
     </div>)
 }
