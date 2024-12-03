@@ -1,12 +1,10 @@
 import './globals.css'
-import NavButton from './NavButton';
+import ExpButton from './ExperienceButton'
 
 const NavBar = () => {
     return (<div>
-        <div className="flex flex-row justify-center ">
-        <NavButton props="Sobre mim"/>
-        <NavButton props="Experiência e Tecnologias"/>
-        <NavButton props="Projetos"/>
+        <div className="flex flex-row justify-center space-x-10">
+        <ExpButton />
         </div>
     </div>);
 };

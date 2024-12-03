@@ -5,11 +5,11 @@
 :root {
 
   --foreground: #171717;
-  --maincolor: #00ff6a;
+  --maincolor: #00c4e6;
 }
 
 
 body {
   background: #1f1f23;
-  font-family:Arial, Helvetica, sans-serif  
+  font-family:Onest, Helvetica, sans-serif  
 }
