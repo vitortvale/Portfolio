@@ -1,2 +1,2 @@
 # 🚀 Portfolio
-## Welcome to my personal portfolio! This project showcases my skills, projects, and achievements as a Computer Science undergraduate. Built using Next.js and styled with Tailwind CSS, it provides a fast, responsive, and visually appealing experience. Hope you enjoy!
+### Welcome to my personal portfolio! This project showcases my skills, projects, and achievements as a Computer Science undergraduate. Built using Next.js and styled with Tailwind CSS. Hope you enjoy!
